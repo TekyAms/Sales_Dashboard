@@ -1,0 +1,22 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Fichiers Tableau
+*.twbk
+*.twbs
+.tde_cache/
+
+# Fichiers Excel temporaires
+~$*.xlsx
+*.xlk
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers log
+*.log
