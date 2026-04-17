@@ -40,32 +40,19 @@ Sales_Dashboard/
 └── README.md                # Ce fichier
 ```
 
-## 📋 Fichiers
 
-| Fichier | Description |
-|---------|-------------|
-| **Sales Dashboard.twbx** | Workbook Tableau contenant tous les calculs, visualisations et interactions |
-| **Ventes.xlsx** | Fichier Excel contenant les données brutes utilisées pour les analyses |
-| **Tableau de bord.png** | Aperçu visuel du dashboard (capture d'écran) |
 
 ## 🎯 Comment Utiliser
 
 ### Accès Local
 1. Téléchargez le fichier `Sales Dashboard.twbx`
-2. Ouvrez-le avec **Tableau Desktop** ou **Tableau Reader** (gratuit)
+2. Ouvrez-le avec **Tableau Desktop** ou **Tableau Public** (gratuit)
 3. Explorez les visualisations interactives
 4. Utilisez les filtres pour analyser des segments spécifiques
 
 ### Accès en Ligne
 Consultez directement la version publiée sur Tableau Public via le lien ci-dessus. Aucune installation requise.
 
-## 🔄 Mise à Jour des Données
-
-Pour mettre à jour le dashboard avec de nouvelles données :
-1. Modifiez le fichier `Ventes.xlsx` avec les dernières données
-2. Ouvrez `Sales Dashboard.twbx` dans Tableau
-3. Actualisez les données (Data → Refresh)
-4. Publiez à nouveau sur Tableau Public si nécessaire
 
 ## 💡 Insights Clés
 
@@ -80,4 +67,4 @@ Ce dashboard a été créé pour offrir une vue consolidée et claire des perfor
 
 ---
 
-**Dernière mise à jour** : Avril 2026
+**Tèkiyath Amoussa alias TekyAms** 
