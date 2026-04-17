@@ -19,10 +19,28 @@ Les graphiques temporels montrent l'évolution des ventes au fil du temps, rév�
 
 ### 3. **Métriques Clés (KPIs)**
 Le tableau de bord met en avant les indicateurs de performance critiques :
-- **Total des Ventes** : Chiffre d'affaires global
-- **Nombre de Transactions** : Volume des ventes
-- **Panier Moyen** : Valeur moyenne par commande
-- **Taux de Croissance** : Évolution d'une période à l'autre
+
+#### 💰 **Total des Ventes** - Chiffre d'affaires global
+**Graphe** : Column Chart - *"Segment vs Category & Ship Status with Sum of Sales"* (haut-gauche)
+- Affiche les ventes totales par segment (Consumer, Corporate, Home Office), catégories (Office Furniture, Office Supplies, Technology) et statut de livraison
+- Les colonnes vertes, oranges et rouges permettent de comparer rapidement les performances
+
+#### 📦 **Nombre de Transactions** - Volume des ventes
+**Graphe** : Bar Chart - *"Region vs Ship Status with Sum of Quantity"* (haut-droite)
+- Montre le volume de transactions (quantité) par région (Central, Eastern, Southern, Western) et statut de livraison
+- Les barres horizontales colorées représentent le nombre d'articles vendus
+
+#### 🛍️ **Panier Moyen** - Valeur moyenne par commande
+**Graphe** : Pie Chart - *"Segment vs Sum of Profit"* (bas-droite)
+- Représente la distribution du profit par segment (Consumer, Corporate, Home Office)
+- Permet de calculer le panier moyen en combinant les données de ventes totales et du nombre de transactions
+- Les valeurs (71244, 139089, 76014) fournissent les données brutes pour cette analyse
+
+#### 📈 **Taux de Croissance** - Évolution d'une période à l'autre
+**Graphe** : Line Chart - *"Running Total Profit vs Month of Order Date"* (bas-centre)
+- Visualise la croissance cumulative du profit de **2018 à 2022**
+- La courbe ascendante révèle clairement les tendances et la progression année après année
+- Montre les variations saisonnières et les périodes de pic d'activité
 
 ### 4. **Performance par Catégorie de Produits**
 Une analyse détaillée des ventes par catégorie permet d'identifier les produits les plus rentables et d'ajuster la stratégie commerciale en conséquence.
